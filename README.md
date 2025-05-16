@@ -3,29 +3,23 @@ I'm a Data Analyst/Scientist specializing in data modeling, predictive analysis,
 
 🔍 What I Do
 
-Develop predictive models using Python, SQL, and machine learning techniques
-
-Build dashboards and visualizations to track KPIs and uncover trends
-
-Automate workflows using APIs and custom scripts
-
-Apply NLP and statistical modeling to extract meaning from complex data
+- Develop predictive models using Python, SQL, and machine learning techniques
+- Build dashboards and visualizations to track market and uncover trends
+- Automate workflows using APIs and complex algorithms
+- Apply statistical modeling, NLP, and unsupervised learning to solve complex problems
 
 🧠 Currently Learning
 
-Advanced MLOps and model deployment
-
-Scalable data pipelines using AWS and distributed systems
-
-Experimentation design and A/B testing at scale
+- Advanced MLOps and model deployment
+- Scalable data pipelines using AWS and distributed systems
+- Experimentation design and A/B testing at scale
+- Working with econometric models, including logistic regression, to draw meaningful conclusions from structured and unstructured data
 
 🚀 Looking to Collaborate On
 
-Open-source data science tools
-
-Data-driven product strategies
-
-App analytics and user behavior modeling
+- Open-source data science tools
+- Data-driven product strategies
+- App analytics and user behavior modeling
 
 📫 How to Reach Me
 
