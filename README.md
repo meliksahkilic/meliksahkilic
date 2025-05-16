@@ -29,8 +29,6 @@ App analytics and user behavior modeling
 
 📫 How to Reach Me
 
-LinkedIn
-
 Email: meliksahm7[at]gmail.com
 
 ⚡ Fun Fact
