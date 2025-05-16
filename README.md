@@ -1,4 +1,4 @@
-### Hi, I'm [Melikşah] 👋  
+### Hi, I'm Melikşah 👋  
 I'm a Data Analyst/Scientist specializing in data modeling, predictive analysis, and creating actionable insights from raw data.  
 
 🔍 What I Do
