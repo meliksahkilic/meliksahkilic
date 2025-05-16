@@ -3,9 +3,7 @@ I'm a Data Analyst/Scientist specializing in data modeling, predictive analysis,
 
 ![Profile Views](https://komarev.com/ghpvc/?username=meliksahkilic&color=blue)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meliksahkilic&layout=compact&theme=default)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=meliksahkilic&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meliksahkilic&layout=compact&theme=default) ![GitHub Streak](https://streak-stats.demolab.com/?user=meliksahkilic&theme=default)
 
 
 🔍 What I Do
