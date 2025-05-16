@@ -30,11 +30,9 @@ I'm a Data Analyst/Scientist specializing in data modeling, predictive analysis,
 
 Email: meliksahm7[at]gmail.com
 
-⚡ Fun Fact
+<!--⚡ Fun Fact
+
 I see data analytics like a game of strategy. It’s all about spotting opportunities early and optimizing your next move.
-
-
-
 <!--
 **meliksahkilic/meliksahkilic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
