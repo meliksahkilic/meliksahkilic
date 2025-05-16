@@ -1,6 +1,11 @@
 ### Hi, I'm Melikşah 👋  
 I'm a Data Analyst/Scientist specializing in data modeling, predictive analysis, and creating actionable insights from raw data.  
 
+![Profile Views](https://komarev.com/ghpvc/?username=meliksahkilic&color=blue)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meliksahkilic&layout=compact&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com/?user=meliksahkilic&theme=default)
+
+
 🔍 What I Do
 
 - Develop predictive models using Python, SQL, and machine learning techniques
