@@ -31,10 +31,10 @@ App analytics and user behavior modeling
 
 LinkedIn
 
-Email: meliksah.kilic[at]gmail.com
+Email: meliksahm7[at]gmail.com
 
 ⚡ Fun Fact
-I see data analytics like a game of strategy—just like my favorite game, EU4. It’s all about spotting opportunities early and optimizing your next move.
+I see data analytics like a game of strategy. It’s all about spotting opportunities early and optimizing your next move.
 
 
 
