@@ -13,11 +13,11 @@ I'm a Data Analyst/Scientist specializing in data modeling, predictive analysis,
 - Automate workflows using APIs and complex algorithms
 - Apply statistical modeling, NLP, and unsupervised learning to solve complex problems
 
-🧠 Currently Learning
+🧠 Currently Exploring
 
-- Advanced MLOps and model deployment
-- Scalable data pipelines using AWS and distributed systems
-- Experimentation design and A/B testing at scale
+- Econometric modeling and forecasting to interpret real-world economic signals
+- Scalable data pipelines and cloud tools (AWS) for data processing, and model deployment
+- A/B testing, causal inference, and experimentation design
 - Working with econometric models, to draw meaningful conclusions from structured and unstructured data
 
 🚀 Looking to Collaborate On
